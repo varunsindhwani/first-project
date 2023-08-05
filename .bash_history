@@ -73,3 +73,29 @@ git status
 git log
 git tag
 git tag -a added second time
+ls
+git branch -a
+ls
+git branch master
+git checkout master
+ls
+git checkout master
+git branch -a
+git checkout dev
+git checkout test
+git log --oneline
+git status
+git log --oneline
+ls
+git add .
+git commit -m "added all files"
+ls
+git status
+git checkout master
+ls
+git checkout dev2
+ls
+git log --oneline
+git checkout master
+ls
+1916017
