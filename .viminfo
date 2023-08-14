@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1691201032,,"wq"
+|2,0,1692001462,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,230 +25,273 @@
 # Registers:
 
 # File marks:
-'0  1  32  ~/file1
-|4,48,1,32,1691201032,"~/file1"
-'1  2  33  ~/file1.txt
-|4,49,2,33,1691038647,"~/file1.txt"
-'2  1  0  ~/.git/COMMIT_EDITMSG
-|4,50,1,0,1691038646,"~/.git/COMMIT_EDITMSG"
-'3  1  0  ~/.git/COMMIT_EDITMSG
-|4,51,1,0,1691038646,"~/.git/COMMIT_EDITMSG"
-'4  1  21  ~/file2.gitignore
-|4,52,1,21,1691029670,"~/file2.gitignore"
-'5  1  0  ~/file2.txt
-|4,53,1,0,1691029623,"~/file2.txt"
-'6  3  16  ~/file1.txt
-|4,54,3,16,1691029326,"~/file1.txt"
-'7  2  33  ~/file1.txt
-|4,55,2,33,1691029041,"~/file1.txt"
-'8  2  33  ~/file1.txt
-|4,56,2,33,1691029041,"~/file1.txt"
-'9  1  20  ~/.git/COMMIT_EDITMSG
-|4,57,1,20,1691028881,"~/.git/COMMIT_EDITMSG"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1692001462,"~/.git/COMMIT_EDITMSG"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1691999235,"~/.git/COMMIT_EDITMSG"
+'2  1  21  ~/devfile
+|4,50,1,21,1691314909,"~/devfile"
+'3  1  17  ~/qafile.txt
+|4,51,1,17,1691314685,"~/qafile.txt"
+'4  25  0  ~/.git/COMMIT_EDITMSG
+|4,52,25,0,1691302590,"~/.git/COMMIT_EDITMSG"
+'5  25  0  ~/.git/COMMIT_EDITMSG
+|4,53,25,0,1691302590,"~/.git/COMMIT_EDITMSG"
+'6  25  0  ~/.git/COMMIT_EDITMSG
+|4,54,25,0,1691302590,"~/.git/COMMIT_EDITMSG"
+'7  25  0  ~/.git/COMMIT_EDITMSG
+|4,55,25,0,1691302590,"~/.git/COMMIT_EDITMSG"
+'8  1  0  ~/.git/COMMIT_EDITMSG
+|4,56,1,0,1691302533,"~/.git/COMMIT_EDITMSG"
+'9  1  0  ~/.git/COMMIT_EDITMSG
+|4,57,1,0,1691302533,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
--'  1  32  ~/file1
-|4,39,1,32,1691201032,"~/file1"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691038647,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691038647,"~/file1.txt"
 -'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1691038646,"~/.git/COMMIT_EDITMSG"
+|4,39,1,0,1692001462,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1691038646,"~/.git/COMMIT_EDITMSG"
+|4,39,1,0,1691999235,"~/.git/COMMIT_EDITMSG"
+-'  1  21  ~/devfile
+|4,39,1,21,1691314909,"~/devfile"
+-'  1  21  ~/devfile
+|4,39,1,21,1691314909,"~/devfile"
+-'  1  21  ~/devfile
+|4,39,1,21,1691314909,"~/devfile"
+-'  1  21  ~/devfile
+|4,39,1,21,1691314909,"~/devfile"
+-'  1  17  ~/qafile.txt
+|4,39,1,17,1691314685,"~/qafile.txt"
+-'  1  17  ~/qafile.txt
+|4,39,1,17,1691314685,"~/qafile.txt"
+-'  1  17  ~/qafile.txt
+|4,39,1,17,1691314685,"~/qafile.txt"
+-'  1  17  ~/qafile.txt
+|4,39,1,17,1691314685,"~/qafile.txt"
+-'  1  17  ~/qafile.txt
+|4,39,1,17,1691314685,"~/qafile.txt"
+-'  1  17  ~/qafile.txt
+|4,39,1,17,1691314685,"~/qafile.txt"
+-'  1  17  ~/qafile.txt
+|4,39,1,17,1691314685,"~/qafile.txt"
+-'  1  17  ~/qafile.txt
+|4,39,1,17,1691314685,"~/qafile.txt"
+-'  25  0  ~/.git/COMMIT_EDITMSG
+|4,39,25,0,1691302590,"~/.git/COMMIT_EDITMSG"
+-'  25  0  ~/.git/COMMIT_EDITMSG
+|4,39,25,0,1691302590,"~/.git/COMMIT_EDITMSG"
+-'  25  0  ~/.git/COMMIT_EDITMSG
+|4,39,25,0,1691302590,"~/.git/COMMIT_EDITMSG"
+-'  25  0  ~/.git/COMMIT_EDITMSG
+|4,39,25,0,1691302590,"~/.git/COMMIT_EDITMSG"
+-'  25  0  ~/.git/COMMIT_EDITMSG
+|4,39,25,0,1691302590,"~/.git/COMMIT_EDITMSG"
+-'  25  0  ~/.git/COMMIT_EDITMSG
+|4,39,25,0,1691302590,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1691038646,"~/.git/COMMIT_EDITMSG"
+|4,39,1,0,1691302577,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
-|4,39,1,0,1691038646,"~/.git/COMMIT_EDITMSG"
--'  1  21  ~/file2.gitignore
-|4,39,1,21,1691029670,"~/file2.gitignore"
--'  1  21  ~/file2.gitignore
-|4,39,1,21,1691029670,"~/file2.gitignore"
--'  1  21  ~/file2.gitignore
-|4,39,1,21,1691029670,"~/file2.gitignore"
--'  1  21  ~/file2.gitignore
-|4,39,1,21,1691029670,"~/file2.gitignore"
--'  1  21  ~/file2.gitignore
-|4,39,1,21,1691029670,"~/file2.gitignore"
--'  1  21  ~/file2.gitignore
-|4,39,1,21,1691029670,"~/file2.gitignore"
--'  1  0  ~/file2.txt
-|4,39,1,0,1691029623,"~/file2.txt"
--'  1  0  ~/file2.txt
-|4,39,1,0,1691029623,"~/file2.txt"
--'  1  0  ~/file2.txt
-|4,39,1,0,1691029623,"~/file2.txt"
--'  1  0  ~/file2.txt
-|4,39,1,0,1691029623,"~/file2.txt"
--'  1  0  ~/file2.txt
-|4,39,1,0,1691029623,"~/file2.txt"
--'  1  0  ~/file2.txt
-|4,39,1,0,1691029623,"~/file2.txt"
--'  1  0  ~/file2.txt
-|4,39,1,0,1691029623,"~/file2.txt"
--'  1  0  ~/file2.txt
-|4,39,1,0,1691029623,"~/file2.txt"
--'  1  0  ~/file2.txt
-|4,39,1,0,1691029623,"~/file2.txt"
--'  1  0  ~/file2.txt
-|4,39,1,0,1691029623,"~/file2.txt"
--'  1  0  ~/file2.txt
-|4,39,1,0,1691029623,"~/file2.txt"
--'  1  0  ~/file2.txt
-|4,39,1,0,1691029623,"~/file2.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  3  16  ~/file1.txt
-|4,39,3,16,1691029326,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029302,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  2  33  ~/file1.txt
-|4,39,2,33,1691029041,"~/file1.txt"
--'  1  20  ~/.git/COMMIT_EDITMSG
-|4,39,1,20,1691028881,"~/.git/COMMIT_EDITMSG"
--'  1  20  ~/.git/COMMIT_EDITMSG
-|4,39,1,20,1691028881,"~/.git/COMMIT_EDITMSG"
--'  1  20  ~/.git/COMMIT_EDITMSG
-|4,39,1,20,1691028881,"~/.git/COMMIT_EDITMSG"
+|4,39,1,0,1691302577,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1691302577,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1691302577,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1691302533,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1691302533,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1691302533,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1691302533,"~/.git/COMMIT_EDITMSG"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
+-'  1  4  ~/file1.txt
+|4,39,1,4,1691267039,"~/file1.txt"
+-'  1  2  ~/file1.txt
+|4,39,1,2,1691267039,"~/file1.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1692001458	0
+	"	1	0
+	^	1	21
+	.	1	20
+	+	1	20
+
+> ~/devfile
+	*	1691314906	0
+	"	1	21
+	^	1	22
+	.	1	21
+	+	1	21
+
+> ~/qafile.txt
+	*	1691314683	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
+
+> ~/file1.txt
+	*	1691267039	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	2	33
+	+	1	4
+
+> ~/check.txt
+	*	1691249493	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
+
+> ~/newfile2.txt
+	*	1691203494	0
+	"	1	24
+	^	1	25
+	.	1	24
+	+	1	24
 
 > ~/file1
 	*	1691201030	0
@@ -256,20 +299,6 @@
 	^	1	33
 	.	1	32
 	+	1	32
-
-> ~/file1.txt
-	*	1691038647	0
-	"	2	33
-	^	2	34
-	.	2	33
-	+	2	33
-
-> ~/.git/COMMIT_EDITMSG
-	*	1691038646	0
-	"	1	0
-	^	1	21
-	.	1	20
-	+	1	20
 
 > ~/file2.gitignore
 	*	1691029668	0
