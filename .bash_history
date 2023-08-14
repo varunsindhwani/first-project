@@ -308,3 +308,58 @@ ls
 git log --oneline
 git reset 1f4ec6a
 git log --oneline
+ls
+git branch -a
+git log --oneline
+git cherry-pick 1f4ec6a
+git log --oneline
+git branch -a
+ls
+git checkout dev2
+git add .
+git commit -m "aded"
+git checkout dev2
+ls
+git log --oneline
+git show 1f4ec6a
+git log --oneline
+git show 8924396
+ls
+git show fbe7e04
+cat file1 
+git branch -a
+ls
+git log --oneline
+git checkout master
+ls
+git log --oneline
+cat newfile.txt 
+cat newfile2.txt 
+git cherry-pick d5e2a83
+git commit --allow-empty
+git log --oneline
+git cherry-pick d5e2a83
+git commit --allow-empty
+ls
+ls -la
+ls
+git branch -a
+git log --oneline
+git checkout dev2
+git add .
+git checkout dev2
+git commit "added bhai added "
+git commit -m "added bhai added "
+git checkout dev2
+git log --oneline
+ls
+cat devfile 
+git show 649c7b6
+cat newfile4.
+cat newfile4.txt 
+git cherry-pick 649c7b6
+cat newfile4.txt 
+cat newfile4.gitignnore 
+ls
+git remote -v
+exit
